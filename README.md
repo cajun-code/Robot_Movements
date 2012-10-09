@@ -6,6 +6,12 @@ Description:
 
 A robot is located at the top-left corner of a 4x4 grid. The robot can move either up, down, left, or right, but can not visit the same spot twice. The robot is trying to reach the bottom-right corner of the grid.
 
+Intructions:
+1. Fork this repo on GitHub.
+2. Create a program to do thw work described in this document (prefered programming languages are python, ruby, java, C++ or Objective C).
+3. Commit early and often, with good messages.
+4. Push your code back to GitHub and send me a pull request.
+
 Input sample:
 -------------------
 
